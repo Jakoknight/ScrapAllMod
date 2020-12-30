@@ -1,12 +1,12 @@
-[ChangeLogs]:
+# [ChangeLogs]:
 [0] First Versions Skips
 [1] Mod Start Create 
 [2] Mod Basics Elements Skips
 
-[Stable]:
+# [Stable]:
 Version: 0.3a -/+
 
-[Dev]:{
+# [Dev]:
 	Version: 0.4-fix08a Working
 	
 		-Added:	
@@ -31,5 +31,5 @@ Version: 0.3a -/+
 				Drills
 
 
-}
-[Beta]:
+
+# [Beta]:
