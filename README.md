@@ -4,11 +4,11 @@
 # ScrapsAllCrafterMod for Mindustry
 
 # Features:
--New Drills
--New Productions
--New Walls
--New Forges
--New Defense
--New Materials
--New Powers
--New Liquids
+- New Drills
+- New Productions
+- New Walls
+- New Forges
+- New Defense
+- New Materials
+- New Powers
+- New Liquids
