@@ -16,8 +16,13 @@ Version: Dev:0.4-fix08a
 - NX-Liquids
     
 ### Fix
-### Change
-### Remove
 
+### Changes
+#### Rebalance:
+- All Forges
+
+- Drills
+
+### Removes
 
 # [Beta]:
