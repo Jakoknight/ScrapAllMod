@@ -1,7 +1,7 @@
 # [Dev]:
 
-sprites in working.
+- sprites in working.
 
-Json Scripts in working.
+- Json Scripts in working.
 
-Java Scrips coming soon.
+- Java Scrips coming soon.
