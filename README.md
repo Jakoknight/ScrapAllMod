@@ -3,7 +3,7 @@
 
 
 # Special Thx: 
-* Anuken [GitHub Developer](https://github.com/Anuken/Mindustry).
+* Anuken [GitHub Mindustry](https://github.com/Anuken/Mindustry).
 
 
 # Features:
