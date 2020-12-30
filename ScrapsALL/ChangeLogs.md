@@ -4,10 +4,20 @@
 Version: 0.3a -+
 
 # [Dev]:
-- Added
-- Fix
-- Change
-- Remove
+Version: Dev:0.4-fix08a
+### Added
+#### New materials:
+
+- Compressed Scrap
+
+- Alpha Scrap
+
+#### New liquids:
+- NX-Liquids
+    
+### Fix
+### Change
+### Remove
 
 
 # [Beta]:
