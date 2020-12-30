@@ -1,0 +1,39 @@
+	"type": "ItemTurret",
+	
+	"name": "Scraped Double Turret",
+	"description": "Double turret, but made with scrap!",
+	"health": 500
+	"size": 1,
+	
+	"requirements": [{"item": "scrap", "amount": 5}, {"item": "copper", "amount": 2}],
+	"hasItems": true,
+	"craftTime": 1.87,
+	
+	"maxAmmo": 900,
+	"ammoTypes": {
+		"scrap": {
+			"speed": 2.0,
+            "damage": 13.79,
+            "bulletWidth": 5,
+            "bulletHeight": 7,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
+            "ammoMultiplier": 3,
+		}
+	},
+	"ammoPerShot": 7,
+	"ammoEjectBack": 8.0,
+	"shots": 2,
+	"targetAir": true,
+	"targetGround": true,
+	"rotatespeed": 2.36,
+	"range": 79,
+	"spread": 13,
+	"inaccuracy": 1,
+	"recoil": 4,
+	"reload": 13,
+	
+	"ammoUseEffect": "smoke",
+	"shootSound": "artillery",
+	
+	"category": "turret"

@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Compressed Scrap",
+	"description": "Compressed Scrap made from 30 Super Scraps.",
+
+		"flammability": 0.4f,
+		"radioactivity": 0.7f,
+		"color": "4169E1",
+		"cost": 1f,
+
+}

@@ -1,0 +1,28 @@
+{
+"type": "GenericCrafter",
+  "name": "Scrapper Thorium",
+  "description": "Scrapper Thorium",
+  "health": 1200,
+  "size": 2,
+  "requirements": [
+    { "item": "copper", "amount": 10}
+  ],
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "isOutputItems": true,
+  "craftTime": 2.5,
+  "consumes": {
+    "power": 10,
+    "items": {
+      "items": [
+        { "item": "scrap", "amount": 3}
+      ]
+    }
+  },
+  "updateEffect": "smeltsmoke",
+  "category": "crafting",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 15,
+  "outputItem":	{ "item": "thorium", "amount": 3}
+}

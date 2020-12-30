@@ -1,0 +1,54 @@
+{
+"type": "ImpactReactor",
+
+	"name": "Mega Scrap Generator",
+	"description": "Mega Scrap Generator",
+	
+	"lightColor": 7f19ea,
+	#"coolColor": ffffff00,
+	"hotColor": ff9575a3,
+	
+			"health": 2100,
+			"size": 4,
+  
+				"hasPower": true,
+				"hasItems": true,
+				"hasLiquids": true,
+				
+	"outputsPower": true,
+	"consumesPower": true,
+	"warmupSpeed": 0.001f,
+	"explosionRadius": 75,
+	"explosionDamage": 2000,
+	
+	
+				"itemDuration": 200,
+				"itemCapacity": 85,
+				"liquidCapacity": 80,
+				
+				"powerProduction": 120.0,
+	
+	"consumes": {
+	    "power": 25.0,
+		"items": {
+			"items": [
+				{ "item": "MegaScrap", "amount": 35 },
+				{ "item": "SuperScrap", "amount": 5 }
+			],
+			"optional": true
+		}
+		"liquid": {
+		
+			"liquid": "ShitLiquid",
+			"amount": 0.65f
+			
+		}
+	},
+	
+  "requirements": [
+    { "item": "MegaScrap", "amount": 250},
+	 { "item": "SuperScrap", "amount": 50},
+	 { "item": "scrap", "amount": 750}
+  ],
+  "category": "power"
+}

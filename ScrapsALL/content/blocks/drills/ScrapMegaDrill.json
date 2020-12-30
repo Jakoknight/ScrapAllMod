@@ -1,0 +1,40 @@
+{
+ "type": "Drill",
+   "name": "Scrap Drill", 
+   "description": "Scrap Drill",
+   
+		"tier": 5,
+		"health": 1100, 
+		"size": 3,
+ 
+ "hardnessDrillMultiplier": 65.0f
+ "rotateSpeed": 4f,
+ "drillTime": 130f,
+ 
+ "hasItems": true,
+ "hasLiquids": true,
+ 
+ "liquidCapacity": 16,
+ "liquidBoostIntensity": 2.62f,
+ 
+ "updateEffect": "pulverizeSmall",
+ "drillEffect": "mine",
+ 
+ "itemCapacity": 16,
+ 
+ "consumes": {
+		"liquid": {
+			"liquid": "ShitLiquid", 
+			"amount": 1.5f,
+			"booster": true,
+			"optional": true
+		}
+	},
+ 
+ "requirements": [
+  {"item": "MegaScrap", "amount": 100},
+  {"item": "scrap", "amount": 3500}
+ ],
+ 
+ "category": "production"
+}

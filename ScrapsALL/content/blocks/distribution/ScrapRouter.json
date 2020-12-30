@@ -1,0 +1,13 @@
+{
+ "type": "Router",
+ "name": "Scrap Router", 
+ "description": "Scrap Router",
+ "health": 600, 
+ "speed": 50.0f,
+ "itemCapacity": 3,
+ "requirements": [
+  {"item": "MegaScrap", "amount": 10}
+ ],
+ 
+ "category": "distribution"
+}

@@ -1,0 +1,13 @@
+{
+ "type": "Wall",
+ "name": "Scrap Wall", 
+ "description": "Scrap Wall",
+ "health": 3750, 
+ "size": 2
+ "buildCostMultiplier": 24.0f
+ "requirements": [
+  {"item": "MegaScrap", "amount": 5}
+ ],
+ 
+ "category": "defense"
+}

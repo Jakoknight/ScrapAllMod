@@ -1,0 +1,14 @@
+{
+	"type": "liquid",
+	"name": "Shit Liquid",
+	"description": "Shit Liquid",
+
+		"flammability": 0.2f,
+		"radioactivity": 0.3f,
+		"color": "8B4513",
+		"barColor": "8B4513",
+		"cost": 1.0f,
+		"viscosity": 0.65f,
+		"temperature": 0.6f
+
+}

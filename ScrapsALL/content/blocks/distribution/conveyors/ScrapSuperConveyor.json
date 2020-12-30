@@ -1,0 +1,14 @@
+{
+ "type": "Conveyor",
+ "name": "Scrap Conveyor", 
+ "description": "Scrap Conveyor",
+ "health": 650, 
+ "speed": 0.95f,
+ "itemCapacity": 6,
+ "buildCostMultiplier": 2.0f
+ "requirements": [
+  {"item": "SuperScrap", "amount": 5}
+ ],
+ 
+ "category": "distribution"
+}

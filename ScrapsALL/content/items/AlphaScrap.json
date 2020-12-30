@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Alpha Scrap",
+	"description": "Alpha Scrap made from 40 Compressed Scraps.",
+
+		"flammability": 0.2f,
+		"radioactivity": 0.85f,
+		"color": "4169E1",
+		"cost": 1f,
+
+}

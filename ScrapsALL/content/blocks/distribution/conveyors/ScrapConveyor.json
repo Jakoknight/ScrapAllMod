@@ -1,0 +1,14 @@
+{
+ "type": "Conveyor",
+ "name": "Scrap Conveyor", 
+ "description": "Scrap Conveyor",
+ "health": 500, 
+ "speed": 0.35f,
+ "itemCapacity": 6,
+ "buildCostMultiplier": 2.0f
+ "requirements": [
+  {"item": "MegaScrap", "amount": 5}
+ ],
+ 
+ "category": "distribution"
+}

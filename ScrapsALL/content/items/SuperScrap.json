@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Super Scrap",
+	"description": "Super Scrap made from 20 Mega Scraps.",
+
+		"flammability": 0.6f,
+		"radioactivity": 0.4f,
+		"color": "4169E1",
+		"cost": 1f,
+
+}

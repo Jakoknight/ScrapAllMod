@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Mega Scrap",
+	"description": "Mega Scrap made from 10 Scraps.",
+
+		"flammability": 0.4f,
+		"radioactivity": 0.2f,
+		"color": "3f2512",
+		"cost": 1f,
+
+}

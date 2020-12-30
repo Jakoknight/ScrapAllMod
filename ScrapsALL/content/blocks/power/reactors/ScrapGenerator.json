@@ -1,0 +1,52 @@
+{
+"type": "NuclearReactor",
+
+	"name": "Scrap Generator",
+	"description": "Scrap Generator",
+	
+	"lightColor": 7f19ea,
+	#"coolColor": ffffff00,
+	"hotColor": ff9575a3,
+	
+			"health": 1750,
+			"size": 3,
+  
+				"hasPower": true,
+				"hasItems": true,
+				"hasLiquids": true,
+				
+	"outputsPower": true,
+	"consumesPower": true,
+	"warmupSpeed": 0.001f,
+	"explosionRadius": 75,
+	"explosionDamage": 2000,
+	
+	
+				"itemDuration": 150,
+				"itemCapacity": 70,
+				"liquidCapacity": 60,
+				
+				"powerProduction": 100.0,
+	
+	"consumes": {
+	    "power": 10.0,
+		"items": {
+			"items": [
+				{ "item": "MegaScrap", "amount": 15 }
+			],
+			"optional": true
+		}
+		"liquid": {
+		
+			"liquid": "ShitLiquid",
+			"amount": 0.5f
+			
+		}
+	},
+	
+  "requirements": [
+    { "item": "MegaScrap", "amount": 150},
+	 { "item": "scrap", "amount": 650}
+  ],
+  "category": "power"
+}

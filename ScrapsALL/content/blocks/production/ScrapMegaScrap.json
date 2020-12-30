@@ -1,0 +1,29 @@
+{
+"type": "GenericCrafter",
+  "name": "Mega Scrapper",
+  "description": "Mega Scrapper",
+  "health": 1000,
+  "size": 2,
+  "requirements": [
+    { "item": "copper", "amount": 5},
+	{ "item": "scrap", "amount": 15}
+  ],
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "isOutputItems": true,
+  "craftTime": 1.35f,
+  "consumes": {
+    "power": 6,
+    "items": {
+      "items": [
+        { "item": "scrap", "amount": 10}
+      ]
+    }
+  },
+  "updateEffect": "smeltsmoke",
+  "category": "crafting",
+  "idleSoundVolume": 0.5f,
+  "itemCapacity": 25,
+  "outputItem":	{ "item": "MegaScrap", "amount": 1}
+}

@@ -1,0 +1,10 @@
+{
+ "name": "ScapsALL",
+ "displayName": "ScrapsAllCraft",
+ "author": "J.J.P",
+ "description": "The mod allows you to create crafts and things based on scrap ore",
+ "version": "Dev:0.4-fix08a",
+
+ "minGameVersion": "120",
+ "dependencies": []
+}

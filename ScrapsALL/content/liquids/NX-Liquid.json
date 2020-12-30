@@ -1,0 +1,14 @@
+{
+	"type": "liquid",
+	"name": "NX Liquid",
+	"description": "NX Liquid",
+
+		"flammability": 0.4f,
+		"radioactivity": 0.55f,
+		"color": "00677e",
+		"barColor": "00677e",
+		"cost": 1.0f,
+		"viscosity": 0.73f,
+		"temperature": 0.62f
+
+}
