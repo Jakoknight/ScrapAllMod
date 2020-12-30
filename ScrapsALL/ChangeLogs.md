@@ -5,24 +5,24 @@ Version: 0.3a -+
 
 # [Dev]:
 Version: Dev:0.4-fix08a
-### Added
-#### New materials:
+## Added
+### New materials:
 
 - Compressed Scrap
 
 - Alpha Scrap
 
-#### New liquids:
+### New liquids:
 - NX-Liquids
     
-### Fix
+## Fix
 
-### Changes
-#### Rebalance:
+## Changes
+### Rebalance:
 - All Forges
 
 - Drills
 
-### Removes
+## Removes
 
 # [Beta]:
