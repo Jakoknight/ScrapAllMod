@@ -3,7 +3,7 @@
 
 
 # Thx authors: 
-* Anuken Developer Mindustry and API Mindustry.
+* Anuken [GitHub Developer](https://github.com/Anuken/Mindustry).
 
 
 # Features:
