@@ -1,2 +1,2 @@
-# ScrapAllMod
+# ScrapsAllMod
 ScrapAllMod for Mindustry
