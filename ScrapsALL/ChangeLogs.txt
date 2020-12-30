@@ -1,5 +1,5 @@
 [ChangeLogs]:
-[0] Fisrts Versions Skips
+[0] First Versions Skips
 [1] Mod Start Create 
 [2] Mod Basics Elements Skips
 
